@@ -3,7 +3,7 @@
 Python supports a form of multiple inheritance as well.
 ----
 ## Table of Contents
-Files | Description
+Files | Task desc
 ----- | -----------
 [0-lookup.py](./0-lookup.py) | Python function that returns the list of available attributes and methods of an object
 [1-my_list.py](./1-my_list.py) | Python class MyList that inherits from list
