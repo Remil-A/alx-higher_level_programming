@@ -13,7 +13,7 @@ class Base:
     Private class attribute: __nb_objects
     """
 
-__nb_objects = 0
+    __nb_objects = 0
 
     def __init__(self, id=None):
         """Initialization of a Base instance.
@@ -29,7 +29,7 @@ __nb_objects = 0
             Base.__nb_objects += 1
             self.id = Base.__nb_objects
 
-                @staticmethod
+    @staticmethod
     def to_json_string(list_dictionaries):
         """Returns a JSON representation of list_dictionaries.
         Args:
