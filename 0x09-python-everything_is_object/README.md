@@ -8,10 +8,10 @@ Files | Description
 [3-answer.txt](./3-answer.txt) | a = 89, b = 89. Do a and b point to the same object?
 [4-answer.txt](./4-answer.txt) | a = 89, b = a. Do a and b point to the same object?
 [5-answer.txt](./5-answer.txt) | a = 89, b = a + 1. Do a and b point to the same object?
-[6-answer.txt](./6-answer.txt) | s1 = "Holberton", s2 = s1, print(s1 == s2). What do these 3 lines print?
-[7-answer.txt](./7-answer.txt) | s1 = "Holberton", s2 = s1, print(s1 is s2). What do these 3 lines print?
-[8-answer.txt](./8-answer.txt) | s1 = "Holberton", s2 = "Holberton", print(s1 == s2). What do these 3 lines print?
-[9-answer.txt](./9-answer.txt) | s1 = "Holberton", s2 = "Holberton", print(s1 is s2). What do these 3 lines print?
+[6-answer.txt](./6-answer.txt) | s1 = "Best School", s2 = s1, print(s1 == s2). What do these 3 lines print?
+[7-answer.txt](./7-answer.txt) | s1 = "Best", s2 = s1, print(s1 is s2). What do these 3 lines print?
+[8-answer.txt](./8-answer.txt) | s1 = "Best School", s2 = "Best School", print(s1 == s2). What do these 3 lines print?
+[9-answer.txt](./9-answer.txt) | s1 = "Best School", s2 = "Best School", print(s1 is s2). What do these 3 lines print?
 [10-answer.txt](./10-answer.txt) | l1 = [1, 2, 3], l2 = [1, 2, 3], print(l1 == l2). What do these 3 lines print?
 [11-answer.txt](./11-answer.txt) | l1 = [1, 2, 3], l2 = [1, 2, 3], print(l1 is l2). What do these 3 lines print?
 [12-answer.txt](./12-answer.txt) | l1 = [1, 2, 3], l2 = l1, print(l1 == l2). What do these 3 lines print?
